@@ -1,0 +1,18 @@
+{
+  "name": " &  Wedding",
+  "short_name": " Wedding",
+  "description": "You are cordially invited to celebrate the wedding of Sandeepkumar & Sathiyapriya on ** & ** August 2026.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffcf8",
+  "theme_color": "#c9a227",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/images/invitation-mobile.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
